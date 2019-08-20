@@ -1,6 +1,11 @@
 # Current Weather
 
-![](CurrentWeather.mov)
+<video width="800" controls>
+  <source src="CurrentWeather.mov" type="video/mp4">
+</video>
+
+![](CurrentWeather1.png)
+![](CurrentWeather2.png)
 
 
 This project was for the Full Stack Developer bootcamp I did.
