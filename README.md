@@ -1,20 +1,23 @@
-## Current Weather
+# Current Weather
+
+![](CurrentWeather.mov)
+
 
 This project was for the Full Stack Developer bootcamp I did.
 
-The assignment was to:
+## The Assignment
 
-● Create a React app that will display the weather in a city of the user’s choice. The user should be able to enter or select the name of the city that they
+> ● Create a React app that will display the weather in a city of the user’s choice. The user should be able to enter or select the name of the city that they
 would like to see the weather for.
 
-● Get the weather by using the OpenWeatherMap API: https://openweathermap.org/current.
+> ● Get the weather by using the OpenWeatherMap API: https://openweathermap.org/current.
 
-## Demo
+## The Solution
 I have the code hosted for demo at Heroku. It may be a little slow to spin up but you can [see it here](https://dh4u-bootcamp-current-weather.herokuapp.com/).
 
-## Running the Code
+## Running the Code Locally
 
-Download / Pull the project to your computer.
+[Clone / Download](https://github.com/dh4u/bootcamp-react-resume.git) the project to your computer.
 
 ### Get API Keys
 
