@@ -18,8 +18,6 @@ would like to see the weather for.
 ## The Solution
 I have the code hosted for demo at Heroku. It may be a little slow to spin up but you can [see it here](https://dh4u-bootcamp-current-weather.herokuapp.com/).
 
-You can also [see a movie](CurrentWeather.mov) of the app in action.
-
 ## Running the Code Locally
 
 [Clone / Download](https://github.com/dh4u/bootcamp-react-resume.git) the project to your computer.
