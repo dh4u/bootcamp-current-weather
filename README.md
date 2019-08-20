@@ -1,11 +1,9 @@
 # Current Weather
 
-<video width="800" controls>
-  <source src="CurrentWeather.mov" type="video/mp4">
-</video>
-
 ![](CurrentWeather1.png)
 ![](CurrentWeather2.png)
+![](CurrentWeather3.png)
+![](CurrentWeather4.png)
 
 
 This project was for the Full Stack Developer bootcamp I did.
@@ -19,6 +17,8 @@ would like to see the weather for.
 
 ## The Solution
 I have the code hosted for demo at Heroku. It may be a little slow to spin up but you can [see it here](https://dh4u-bootcamp-current-weather.herokuapp.com/).
+
+You can also [see a movie](CurrentWeather.mov) of the app in action.
 
 ## Running the Code Locally
 
