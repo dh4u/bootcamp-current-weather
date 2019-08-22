@@ -3,7 +3,6 @@ Autosuggest Cities | Weather in the City |  Weather in Another City | Selecting 
 --- | --- | --- | --- 
 ![](CurrentWeather1.png) | ![](CurrentWeather2.png) | ![](CurrentWeather3.png) | ![](CurrentWeather4.png)
 
-
 This project was for the Full Stack Developer bootcamp I did and was for a lesson on fetching data.
 
 ## The Assignment
