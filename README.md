@@ -1,12 +1,10 @@
 # Current Weather
-
-![](CurrentWeather1.png)
-![](CurrentWeather2.png)
-![](CurrentWeather3.png)
-![](CurrentWeather4.png)
+Autosuggest Cities | Weather in the City |  Weather in Another City | Selecting from Previous Cities
+--- | --- | --- | --- 
+![](CurrentWeather1.png) | ![](CurrentWeather2.png) | ![](CurrentWeather3.png) | ![](CurrentWeather4.png)
 
 
-This project was for the Full Stack Developer bootcamp I did.
+This project was for the Full Stack Developer bootcamp I did and was for a lesson on fetching data.
 
 ## The Assignment
 
@@ -16,6 +14,8 @@ would like to see the weather for.
 > * Get the weather by using the OpenWeatherMap API: https://openweathermap.org/current.
 
 ## The Solution
+I was able to tie my React application with the OpenWeatherMap API. I also used the Google Maps API in order to autosuggest cities.
+
 I have the code hosted for demo at Heroku. It may be a little slow to spin up but you can [see it here](https://dh4u-bootcamp-current-weather.herokuapp.com/).
 
 ## Running the Code Locally
