@@ -1,7 +1,7 @@
 # Current Weather
 Autosuggest Cities | Weather in the City |  Weather in Another City | Selecting from Previous Cities
 --- | --- | --- | --- 
-![](CurrentWeather1.png) | ![](CurrentWeather2.png) | ![](CurrentWeather3.png) | ![](CurrentWeather4.png)
+![](./public/images/CurrentWeather1.png) | ![](./public/images/CurrentWeather2.png) | ![](./public/images/CurrentWeather3.png) | ![](./public/images/CurrentWeather4.png)
 
 This project was for the Full Stack Developer bootcamp I did and was for a lesson on fetching data.
 
